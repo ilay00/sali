@@ -1,0 +1,114 @@
+body{font-family:"Times New Roman",serif,Verdana;
+
+}
+.contener{margin:0px auto;
+  outline:1px solid black;
+}
+.heder{height:200px;}
+.logo {margin-top:10px;
+       padding-left:20px;
+    width:292px;
+    height: 63px;
+    float: left;
+	background:url('../img/img_1c.png') no-repeat;
+background-size: contain;
+ }
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+/*.content{color: red !important;
+    font-family:"Times New Roman",serif,Verdana;
+Color: green;}	
+	.block_1{outline: 1px solid black;
+width:50%;height:170px;}
+
+.td{outline: 1px solid black;
+width:20%;height:170px;}
+
+input[type="text"]{color:green; font:bold 24px Arial,Verdana;}
+
+
+.bloks1{display:block;
+		        margin-top:100px;
+				margin-left:20px;
+				position:absolute;
+				top:340px;
+				left:630px;
+	background-color:#caf;
+	width:300px; height:300px;
+	border:1px solid black;
+    	
+	 }
+	 .bloks2{display:block;
+		        margin-top:100px;
+				margin-left:-220px;
+	width:300px; height:300px;
+	position:absolute;
+	              top:340px;
+				left:1170px;
+		 background-position:40px 50px;
+	   background-image:url(img/pro.png );
+border-top:2px dotted green ;
+border-bottom:3px double blue ;
+border-left:1px solid red ;
+border-right:4px inset #000;
+     	float:left;}
+		.bloks3{display:block;
+		        margin-top:-320px;
+				padding-top:20px;
+				padding-left:20px;
+				 width:300px; 
+				 height:300px;
+				 position:absolute;
+				top:760px;
+				left:330px;
+		          border:1px solid black;
+				 float:left; }
+.marc{list-style-type:circle;/*( disc | square | armenian | decimal)*//*clear: both ;
+list-style-position:outside;
+list-style-image:url(img/se.png);
+}	
+.marc li h3{text-decoration:underline;
+              }
+			  .marc li:nth-child(even){Color:#E6C;
+              }	
+			  
+			  a:link{color:#E6C;font:bold 14px Arial,Verdana;}
+			   a:hover{color:#F0D;font:bold 14px Arial,Verdana;}
+  a:visited:hover{color:#FFF;font:bold 14px Arial,Verdana;}
+   
+   .axp:after{content:"li-Mirando&CaR";font-size:24px;color:#fff; 
+        width:900px; height:700px;
+   background:url(img/cof.jpg) no-repeat;
+   
+                 }
+  .axpe{width:200px;}
+  
+  
+  table {border-collapse:collapse;
+	  width : 400px;
+height : 200px;
+border : 1px solid #000;
+
+}
+td {padding-left:30px;
+border : 1px solid #000;
+}
+h1{border:1px solid #000;
+	overflow:hidden;}*/
+
+
+  
+  
