@@ -14,10 +14,12 @@ background:url('../img/pex_2.png') no-repeat;
        margin-left:20px;
     width:292px;
     height: 63px;
+
     float: left;
 	background:url('../img/img_2d.png') no-repeat;
 background-size: contain;
  }
+ .slog{}
 	
 	
 	
