@@ -1,12 +1,23 @@
 body{font-family:"Times New Roman",serif,Verdana;
-color: green;
+
 }
 .contener{margin:0px auto;
-outline:1px solid black;
+  outline:1px solid black;
 }
-.heder{ 
+.heder{height:200px;
+background:url('../img/pex_2.png') no-repeat;
+ background-position:-500px -250px;
 
-	height:200px;}
+
+}
+.logo {margin-top:15px;
+       margin-left:20px;
+    width:292px;
+    height: 63px;
+    float: left;
+	background:url('../img/img_2d.png') no-repeat;
+background-size: contain;
+ }
 	
 	
 	
