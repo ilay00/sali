@@ -4,7 +4,12 @@ body{font-family:"Times New Roman",serif,Verdana;
 .contener{margin:0px auto;
   outline:1px solid black;
 }
-.heder{height:200px;background:url('../img/pex.jpg') no-repeat;}
+.heder{height:200px;
+background:url('../img/pex.jpeg') no-repeat;
+ background-position:40px 50px;
+
+
+}
 .logo {margin-top:20px;
        margin-left:30px;
     width:292px;
