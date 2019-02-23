@@ -1,7 +1,7 @@
 ﻿
 <div class="heder">
 <div class="logo"></div>
-<div class="slog">Вас приветствует web-сайт agidelio.com сегодня:
+<div class="slog"><h3>вас приветствует web-сайт agidelio.com сегодня:
 <?php
 date_default_timezone_set('Europe/Moscow');   // America/Bahia 
  $dat= date('d.m.Y');
@@ -20,8 +20,8 @@ $img='dey.png';}
 $img='nai.png';}
 //���������
 ?>
-<img src="http://agidelio.com/img/<?php echo $img;?>"class="back">
+<img src="http://agidelio.com/img/<?php echo $img;?>"class="back"></h3>
  
-сайт посвящен   � ������� �������.</div>
+<h4>сайт посвящен бизнесу в интернети реклами и многому другому.</h4></div>
 
 </div>
