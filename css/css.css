@@ -4,13 +4,13 @@ body{font-family:"Times New Roman",serif,Verdana;
 .contener{margin:0px auto;
   outline:1px solid black;
 }
-.heder{height:200px;}
+.heder{height:200px;background:url('../img/pex.jpg') no-repeat;}
 .logo {margin-top:20px;
        margin-left:30px;
     width:292px;
     height: 63px;
     float: left;
-	background:url('../img/pex418.jpg') no-repeat;
+	
 background-size: contain;
  }
 	
