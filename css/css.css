@@ -6,16 +6,16 @@ body{font-family:"Times New Roman",serif,Verdana;
 }
 .heder{height:200px;
 background:url('../img/pex_2.png') no-repeat;
- background-position:-200px 0px;
+ background-position:-500px -250px;
 
 
 }
-.logo {margin-top:20px;
-       margin-left:30px;
+.logo {margin-top:15px;
+       margin-left:20px;
     width:292px;
     height: 63px;
     float: left;
-	
+	background:url('../img/img_2d.png') no-repeat;
 background-size: contain;
  }
 	
