@@ -1,7 +1,7 @@
 body{font-family:"Times New Roman",serif,Verdana;
 
 }
-.contener{width:1300px;
+.contener{width:1270px;
 	margin:0px auto;
   outline:1px solid black;
   
@@ -15,7 +15,7 @@ background: url('../img/pex_2.png') no-repeat;
 }
 .logo {margin-top:15px;
        margin-left:20px;
-    width:292px;
+    width:380px;
     height: 63px;
      float:left;
     
@@ -27,7 +27,7 @@ background-size: contain;
               
 				
 		  display:inline-block;
-	      width:900px;
+	      width:800px;
 		 /*outline:1px solid black;*/
 		  
 		  }
@@ -35,7 +35,7 @@ background-size: contain;
 						 margin-bottom:0px;
 						 position:absolute;
 						  top:35px;
-			                left:40px;
+			                left:90px;
 							
                   font-size:22px;
 		font-weight:100px;
